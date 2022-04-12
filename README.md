@@ -1,3 +1,9 @@
+# About this project 
+
+This project is based on the following project and is compatible with Unity 2021.3. The file structure of the entire project has also been changed.
+
+---
+
 # Shader Graph Example Library
 
 ![Player Lineup](https://i.imgur.com/kASJxN1.png)
